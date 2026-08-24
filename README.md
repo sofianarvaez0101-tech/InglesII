@@ -4,7 +4,6 @@ A bilingual personal profile page for students of **Técnico Profesional en Prog
 at Institución Universitaria de El Espinal (UniEspinal).
 
 The page works in **Spanish and English**. Visitors change the language with one button.
-
 ---
 
 ## What you will build
@@ -13,7 +12,7 @@ A public web page with six sections:
 
 | Section | What goes there |
 |---|---|
-| Home | Your name, your role, your links |
+| Home | Sofia Saenz, your role, your links |
 | About | Two or three sentences about you |
 | Skills | Your technical and professional skills |
 | Resume | Your education and your experience |
