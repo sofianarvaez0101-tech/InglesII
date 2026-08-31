@@ -12,7 +12,7 @@ A public web page with six sections:
 
 | Section | What goes there |
 |---|---|
-| Home | Sofia Saenz, your role, your links |
+| Home |My name is Valery Sofia; I am a student, and for the moment, I do not have any links.|
 | About | Two or three sentences about you |
 | Skills | Your technical and professional skills |
 | Resume | Your education and your experience |
