@@ -24,16 +24,16 @@ const ES = {
   "nav.portfolio": "PROYECTOS",
   "nav.contact":   "CONTACTO",
 
-  "hero.role": "Desarrollador Web · Soporte Técnico",
+  "hero.role": "Estudiante de Ingeniería de Sistemas",
 
   "about.title":          "Sobre Mí",
-  "about.text":           "[Escribe aquí dos o tres frases sobre ti: qué estudias, qué te interesa dentro del desarrollo web y qué estás buscando ahora.]",
+  "about.text":           "Hola, soy Valery Sofia, estudiante de Ingeniería de Sistemas y actualmente curso cuarto semestre. Me interesan la tecnología, la programación y el desarrollo web. Me gusta aprender nuevas herramientas, resolver problemas y desarrollar soluciones que puedan ayudar a las personas. Mi objetivo es seguir fortaleciendo mis conocimientos y crecer profesionalmente en el área tecnológica.",
   "about.infoTitle":      "Información",
   "about.labelLocation":  "Ubicación",
-  "about.valueLocation":  "[Ciudad], Colombia",
+  "about.valueLocation":  "Colombia",
   "about.labelEmail":     "Correo",
   "about.labelLanguages": "Idiomas",
-  "about.valueLanguages": "Español (nativo) · Inglés ([tu nivel])",
+  "about.valueLanguages": "Español · Inglés en formación",
   "about.labelStatus":    "Disponibilidad",
   "about.valueStatus":    "Abierto a prácticas",
   "about.interestsTitle": "Intereses",
@@ -55,30 +55,30 @@ const ES = {
   "resume.education":  "Formación",
   "resume.experience": "Experiencia",
 
-  "edu.1.title": "Técnico Profesional en Programación Web",
-  "edu.1.text":  "[Una o dos frases sobre lo que estás aprendiendo y qué sabes hacer ahora.]",
-  "edu.2.title": "[Curso o certificación]",
-  "edu.2.text":  "[Qué aprendiste y para qué te sirve.]",
+  "edu.1.title": "Ingeniería de Sistemas",
+  "edu.1.text":  "Actualmente curso cuarto semestre y desarrollo conocimientos en programación, bases de datos, análisis de problemas y creación de soluciones tecnológicas.",
+  "edu.2.title": "Aprendizaje en desarrollo web",
+  "edu.2.text":  "Estoy fortaleciendo mis conocimientos de HTML, CSS, JavaScript y herramientas para publicar y mantener proyectos web.",
 
-  "exp.1.title": "[Rol o tipo de proyecto]",
-  "exp.1.text":  "[Qué hiciste, con qué herramientas y qué resultado tuvo.]",
-  "exp.2.title": "[Rol o tipo de proyecto]",
-  "exp.2.text":  "[Qué hiciste, con qué herramientas y qué resultado tuvo.]",
+  "exp.1.title": "Proyecto académico CafaNet",
+  "exp.1.text":  "Participación en la planeación y diseño de una propuesta de plataforma web institucional, con módulos para estudiantes, docentes y administración.",
+  "exp.2.title": "Prácticas de programación web",
+  "exp.2.text":  "Desarrollo de ejercicios académicos para practicar la estructura de páginas, estilos CSS y funciones interactivas con JavaScript.",
 
   "portfolio.title": "Proyectos",
-  "project.1.title": "[Nombre del proyecto]",
-  "project.1.text":  "[Tecnologías usadas]",
-  "project.2.title": "[Nombre del proyecto]",
-  "project.2.text":  "[Tecnologías usadas]",
-  "project.3.title": "[Nombre del proyecto]",
-  "project.3.text":  "[Tecnologías usadas]",
+  "project.1.title": "CafaNet",
+  "project.1.text":  "Propuesta de plataforma institucional · Diseño y planificación",
+  "project.2.title": "Personal Portfolio",
+  "project.2.text":  "HTML · CSS · JavaScript · GitHub Pages",
+  "project.3.title": "Web Programming Exercises",
+  "project.3.text":  "Prácticas académicas de programación web",
 
   "contact.title":         "Contacto",
-  "contact.intro":         "[Una frase invitando a escribirte. Por ejemplo: ¿Tienes un proyecto o una vacante? Escríbeme.]",
-  "contact.emailLabel":    "Correo",
-  "contact.linkedinValue": "[Tu perfil profesional]",
+  "contact.intro":         "Gracias por visitar mi portafolio. Puedes conocer mis proyectos académicos y contactarme a través de mis perfiles profesionales.",
+  "contact.emailLabel":    "GitHub",
+  "contact.linkedinValue": "Perfil por agregar",
 
-  "footer.note": "[Tu nombre] · Técnico Profesional en Programación Web · UniEspinal"
+  "footer.note": "Valery Sofia · Estudiante de Ingeniería de Sistemas"
 };
 
 
@@ -98,16 +98,16 @@ const EN = {
   "nav.portfolio": "PROJECTS",
   "nav.contact":   "CONTACT",
 
-  "hero.role": "Web Developer · Technical Support",
+  "hero.role": "Systems Engineering Student",
 
   "about.title":          "About Me",
-  "about.text":           "[Write two or three sentences about yourself: what you study, what interests you in web development, and what you are looking for now.]",
+  "about.text":           "Hello! My name is Valery Sofia, and I am a Systems Engineering student currently in my fourth semester. I am interested in technology, programming, and web development. I enjoy learning new tools, solving problems, and creating solutions that can help people. My goal is to strengthen my skills and continue growing professionally in the technology field.",
   "about.infoTitle":      "Information",
   "about.labelLocation":  "Location",
-  "about.valueLocation":  "[City], Colombia",
+  "about.valueLocation":  "Colombia",
   "about.labelEmail":     "Email",
   "about.labelLanguages": "Languages",
-  "about.valueLanguages": "Spanish (native) · English ([your level])",
+  "about.valueLanguages": "Spanish · English in progress",
   "about.labelStatus":    "Availability",
   "about.valueStatus":    "Open to internships",
   "about.interestsTitle": "Interests",
@@ -129,30 +129,30 @@ const EN = {
   "resume.education":  "Education",
   "resume.experience": "Experience",
 
-  "edu.1.title": "Professional Technician in Web Programming",
-  "edu.1.text":  "[One or two sentences about what you are learning and what you can do now.]",
-  "edu.2.title": "[Course or certificate]",
-  "edu.2.text":  "[What you learned and how you use it.]",
+  "edu.1.title": "Systems Engineering",
+  "edu.1.text":  "I am currently in my fourth semester, developing knowledge of programming, databases, problem analysis, and technology-based solutions.",
+  "edu.2.title": "Web Development Learning",
+  "edu.2.text":  "I am building my knowledge of HTML, CSS, JavaScript, and tools for publishing and maintaining web projects.",
 
-  "exp.1.title": "[Role or type of project]",
-  "exp.1.text":  "[What you did, which tools you used, and what the result was.]",
-  "exp.2.title": "[Role or type of project]",
-  "exp.2.text":  "[What you did, which tools you used, and what the result was.]",
+  "exp.1.title": "CafaNet Academic Project",
+  "exp.1.text":  "Contributed to planning and designing an institutional web platform proposal with modules for students, teachers, and administrators.",
+  "exp.2.title": "Web Programming Practice",
+  "exp.2.text":  "Worked on academic exercises to practice page structure, CSS styling, and interactive features with JavaScript.",
 
   "portfolio.title": "Projects",
-  "project.1.title": "[Project name]",
-  "project.1.text":  "[Technologies used]",
-  "project.2.title": "[Project name]",
-  "project.2.text":  "[Technologies used]",
-  "project.3.title": "[Project name]",
-  "project.3.text":  "[Technologies used]",
+  "project.1.title": "CafaNet",
+  "project.1.text":  "Institutional platform proposal · Planning and design",
+  "project.2.title": "Personal Portfolio",
+  "project.2.text":  "HTML · CSS · JavaScript · GitHub Pages",
+  "project.3.title": "Web Programming Exercises",
+  "project.3.text":  "Academic web programming practice",
 
   "contact.title":         "Contact",
-  "contact.intro":         "[One sentence inviting people to write to you. Example: Have a project or a vacancy? Send me a message.]",
-  "contact.emailLabel":    "Email",
-  "contact.linkedinValue": "[Your professional profile]",
+  "contact.intro":         "Thank you for visiting my portfolio. You can explore my academic projects and connect with me through my professional profiles.",
+  "contact.emailLabel":    "GitHub",
+  "contact.linkedinValue": "Profile to be added",
 
-  "footer.note": "[Your name] · Professional Technician in Web Programming · UniEspinal"
+  "footer.note": "Valery Sofia · Systems Engineering Student"
 };
 
 

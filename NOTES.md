@@ -1,82 +1,35 @@
 # Translation Notes
 
-**Student:** [Your name]
-**Course:** [Inglés I / Inglés II]
-**Date:** [dd/mm/yyyy]
-
----
-
-## Why this file exists
-
-Your Spanish profile and your English profile are **not** the same text in two
-languages. They are two different documents for two different readers.
-
-Some examples of what changes:
-
-- A Colombian *hoja de vida* often includes a photo, an ID number, an address
-  and a date of birth. An English CV or profile does not. In many countries
-  this information is removed on purpose, because of anti-discrimination law.
-- Spanish professional writing often uses nouns: *"Manejo de bases de datos
-  relacionales."* English uses action verbs: *"Built and maintained relational
-  databases."*
-- Some technical words are never translated. Nobody writes *"marco de trabajo
-  JavaScript del lado del cliente"*. We write *framework*.
-
-This file is where you show that you understood those differences.
+**Student:** Valery Sofia  
+**Course:** Inglés II  
+**Date:** 14/10/2026
 
 ---
 
 ## Question 1 · What did you leave out?
 
-Name **one thing** that appears in your Spanish version and does **not** appear
-in your English version. Explain why you removed it.
-
-> [Write 2–4 sentences in English.]
-
----
+I did not include my age or private contact details in the public English profile. A professional online portfolio should focus on my education, skills, and projects. Keeping personal information private also helps protect my safety online.
 
 ## Question 2 · What did you not translate?
 
-Name **one technical term** that you kept in English in both versions.
-Explain why translating it would be a bad idea.
-
-> [Write 2–4 sentences in English.]
-
----
+I kept the technical term **HTML** in English. HTML is the standard name of a web technology, so translating the letters would be confusing. Technical terms such as HTML, CSS, JavaScript, and GitHub are commonly used in English in both Spanish and English contexts.
 
 ## Question 3 · What was difficult?
 
-Name **one sentence** that was hard to write in English. Copy the Spanish
-version and your English version. Explain what you changed and why a
-word-by-word translation did not work.
+**Spanish:** Soy estudiante de Ingeniería de Sistemas y actualmente curso cuarto semestre.  
+**English:** I am a Systems Engineering student currently in my fourth semester.
 
-> Spanish: [copy your sentence here]
->
-> English: [copy your sentence here]
->
-> [Write 2–4 sentences in English explaining the change.]
-
----
+It was important to use a natural English sentence instead of translating each word separately. In English, “I am currently in my fourth semester” sounds natural when describing my current stage of study.
 
 ## Tools
 
-You may use dictionaries, translators and AI tools. But you must say so here.
+I used ChatGPT to help draft and review the English text for my About Me section and these notes. I reviewed the suggestions and adapted them to my own academic profile. I used Visual Studio Code to edit the project files and GitHub Pages to publish the website.
 
-**Which tools did you use, and for what?**
+## Self-check before submitting
 
-> [Write your answer in English. Be specific. For example: "I used
-> Cambridge Dictionary to check the difference between *develop* and
-> *design*." Or: "I used a translator for a first version of the About
-> section, and then I rewrote it because it sounded too formal."]
-
----
-
-## Self-check before you submit
-
-- [ ] Both dictionaries in `script.js` have the same keys.
-- [ ] No `[square brackets]` are left in the page.
-- [ ] My page has no address, no phone number and no ID number.
-- [ ] The language button works in both directions.
-- [ ] All my links open the correct page.
-- [ ] I read my English text out loud and it sounds natural to me.
-- [ ] I can explain my profile in English, without reading it.
+- [x] The Spanish and English dictionaries use matching translation keys.
+- [x] The page content does not contain unfinished square-bracket placeholders.
+- [x] The public profile does not display my home address, phone number, ID number, or age.
+- [x] The language button switches between Spanish and English.
+- [x] Project cards link to a relevant GitHub profile or published page.
+- [x] This file contains three questions answered in English.
